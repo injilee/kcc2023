@@ -2,7 +2,7 @@
 
 [KCC 2023 홈페이지](https://www.kiise.or.kr/kcc2023/)
 
-## 프로젝트 카피본 링크
+## 프로젝트 예시 링크
 ### [관리자 페이지](https://kcc2023-2.web.app/admin.html)  
 id : kcc2023@kiise.com  
 pwd : kcc2023
